@@ -93,7 +93,7 @@ python main.py
 - Ограничения API/tradeit.gg: при высокой нагрузке возможны задержки (`isWaiting`), добавьте больше прокси или повторите позже.
 
 ## Предупреждение
-Скрипт использует сторонний API (tradeit.gg). Убедитесь, что вы соблюдаете условия использования сервиса, действуете этично и в соответствии с законодательством вашей страны.
+Скрипт использует сторонний API (tradeit.gg).
 
 ---
 
@@ -188,4 +188,5 @@ Output:
 - API/tradeit.gg constraints: under heavy load you may see `isWaiting`; add more proxies or try later.
 
 ## Disclaimer
-This script uses a third-party API (tradeit.gg). Ensure you comply with the service's terms, act ethically, and follow the laws applicable in your jurisdiction.
+
+This script uses a third-party API (tradeit.gg). 
